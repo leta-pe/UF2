@@ -6,7 +6,7 @@ import java.util.Scanner;
  * 
  * @author Violeta Navarro
  * @version 1.0
- * @since 2025
+ * @since 2023
  */
 public class notas {
 
@@ -65,7 +65,7 @@ public class notas {
      * - Unidad formativa 2: 35%
      * - Unidad formativa 3: 30%
      */
-    public void Calculonotas() {
+    public void calculoNotas() {
         acu1 = uf1 * 0.35;
         acu2 = uf2 * 0.35;
         acu3 = uf3 * 0.30;
@@ -112,7 +112,7 @@ public class notas {
         
         fc.IngresaNotas();
         fc.comprobacion();
-        fc.Calculonotas();
+        fc.calculoNotas();
         fc.Mostrar();
         fc.aprobado();
     }
