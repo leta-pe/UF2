@@ -4,7 +4,7 @@ import java.util.Scanner;
  * Clase que permite la gestión de notas de un estudiante.
  * Incluye métodos para ingresar, comprobar, calcular y mostrar las notas, y para saber si el estudiante ha aprobado o suspendido.
  * 
- * @author Violeta Navarro
+ * @author Violeta Navarro Fernández
  * @version 1.0
  * @since 2023
  */
