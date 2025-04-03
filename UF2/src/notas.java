@@ -14,6 +14,7 @@ public class notas {
      * Variables para almacenar las notas de las unidades formativas y los acumulados.
      */
     double uf1, uf2, uf3;
+    
     double acu1, acu2, acu3, def;
     
     /**
